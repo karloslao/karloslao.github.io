@@ -1,5 +1,9 @@
 # Geospatial Data Analyst
-#### Technical Skills: Python, PostgreSQL, ArcGIS Pro, QGIS, Google Earth Engine
+#### Technical Skills: Web Mapping and Cyber GIS, Geodatabase Management, Workflow Automation, Data Wrangling and ETL, Machine Learning, Deep Learning
+#### Interests: Spatial SQL, Cloud Computing, Remote Sensing, Image Classification, Real Estate, Utilities Planning
+#### Software Experience: ArcGIS Pro, QGIS, Jupyter Notebook, Orange, VS Code, pgAdmin4
+#### Programming Skills: Python ⋯⋯⋯⋯⋯
+
 
 ## Education
 - **Graduate Certificate, Geospatial Data Analytics**
