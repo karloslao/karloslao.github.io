@@ -2,9 +2,17 @@
 #### Technical Skills: Python, PostgreSQL, ArcGIS Pro, QGIS, Google Earth Engine
 
 ## Education
-- Grad Certificate, Geospatial Data Analytics | Centre of Geographic Sciences (NSCC) (_Sept 2023 - May 2024_)
-- Honours B.A, Geography and Commercial Aviation Management | Western University (_Sept 2018 - Apr 2022_)
-- Certificate, Geographic Information Science | Western University (_Sept 2019 - Apr 2022_)
+- **Graduate Certificate, Geospatial Data Analytics**
+  - *Centre of Geographic Sciences (NSCC)*
+  - _Sept 2023 - May 2024_
+
+- **Honours B.A, Geography and Commercial Aviation Management**
+  - *Western University*
+  - _Sept 2018 - Apr 2022_
+
+- **Certificate, Geographic Information Science**
+  - *Western University*
+  - _Sept 2019 - Apr 2022_
 
 ## Work Experience
 **GIS Analyst (_Jan 2024 - Present_)**
