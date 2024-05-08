@@ -18,7 +18,7 @@
 - Cleaned, prepared, and synthesized complex spatial and non-spatial datasets in a cloud-computing environment using python and JavaScript.
 - Generated reports and visualizations to facilitating the effective sharing of findings to project stakeholders.
 
-**GIS Research Assistant @ Western University (_Jun 2021 – Aug 2022_)
+**GIS Research Assistant @ Western University (_Jun 2021 – Aug 2022_)**
 - Supported analysis of digital hemispheric photography and urban canopy parameters to quantify the impact of vegetation on local climate.                                                                                                                - Leveraged high-resolution thermal imagery and field data to assess past and predict future trends in heat risk for local communities.
 - Extracted and processed large climate datasets from research portals and open-source databases using Esri products. 
 
