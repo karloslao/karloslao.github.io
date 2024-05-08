@@ -1,9 +1,5 @@
 # Geospatial Data Analyst
-#### Technical Skills: Web Mapping and Cyber GIS, Geodatabase Management, Workflow Automation, Data Wrangling and ETL, Machine Learning, Deep Learning
-#### Interests: Spatial SQL, Cloud Computing, Remote Sensing, Image Classification, Real Estate, Utilities Planning
-#### Software Experience: ArcGIS Pro, QGIS, Jupyter Notebook, Orange, VS Code, pgAdmin4
-#### Programming Skills: Python ⋯⋯⋯⋯⋯
-
+As a committed geospatial data analyst with over five years of practical experience in the GIS and remote sensing industry, I bring a wealth of expertise to the table. My skill set encompasses advanced data analysis techniques, including the automation of tasks and workflows using programming languages like Python and SQL. Additionally, I am proficient in utilizing various APIs for cloud computing of raster data or data enrichment for vector data.
 
 ## Education
 - **Graduate Certificate, Geospatial Data Analytics**
