@@ -28,15 +28,15 @@ As a committed geospatial data analyst with over five years of practical experie
 
 ## Education
 - **Graduate Certificate, Geospatial Data Analytics**
-  - *Centre of Geographic Sciences (NSCC)*
+  - *Centre of Geographic Sciences (NSCC), Lawrencetown, Nova Scotia*
   - _Sept 2023 - May 2024_
   
 - **Certificate, Geographic Information Science**
-  - *Western University*
+  - *Western University, London, Ontario*
   - _Sept 2019 - Apr 2022_
 
 - **Honours B.A, Geography and Commercial Aviation Management**
-  - *Western University*
+  - *Western University, London, Ontario*
   - _Sept 2018 - Apr 2022_
 
 ## Certification/Licenses
